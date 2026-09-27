@@ -220,12 +220,9 @@ pytest -q
 
 ## Team Members
 
-| Name | Roll Number |
-|---|---|---|
 | Abhiram Nair | I039 |
 | Mahika Mishhra | I038 | 
 | Nishant Das | I009 |
-
 
 ## Technologies Used
 
