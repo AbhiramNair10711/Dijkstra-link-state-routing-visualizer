@@ -220,13 +220,12 @@ pytest -q
 
 ## Team Members
 
-| Name | Roll Number | Contribution |
+| Name | Roll Number |
 |---|---|---|
-| Member 1 | XXXXX | Network, routers, links and failure simulation |
-| Member 2 | XXXXX | Dijkstra algorithm and routing table |
-| Member 3 | XXXXX | Streamlit UI, graph visualization and animation |
+| Abhiram Nair | I039 |
+| Mahika Mishhra | I038 | 
+| Nishant Das | I009 |
 
-**Replace the placeholders with your actual team details.**
 
 ## Technologies Used
 
